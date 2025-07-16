@@ -26,7 +26,7 @@ https://learn.microsoft.com/en-us/windows/win32/ipc/named-pipe-operations
 #include <iostream>
 using namespace std;
 
-int main()
+int main18()
 {
     BOOL bFile;
     HANDLE hCreateNamedPipe = NULL;

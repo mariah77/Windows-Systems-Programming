@@ -25,7 +25,7 @@ BOOL DisconnectNamedPipe(
 #include <iostream>
 using namespace std;
 
-int main18()
+int main19()
 {
     BOOL bFile;
     HANDLE hFile = NULL;
