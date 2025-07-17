@@ -30,7 +30,7 @@ BOOL UnmapViewOfFile(
 #include <iostream>
 using namespace std;
 
-int main()
+int main23()
 {
     cout << "File mapping server/ parent process" << endl;
     HANDLE hFileMap = NULL;
