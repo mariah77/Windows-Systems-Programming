@@ -39,7 +39,7 @@ int recv(
 #include <iostream>
 using namespace std;
 
-int main()
+int main28()
 {
     cout << "TCP server" << endl;
     //create following three to initalize the DLL
