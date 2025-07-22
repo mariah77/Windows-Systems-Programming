@@ -49,7 +49,7 @@ DWORD WINAPI ThreadFunc6(LPVOID lpParam) {
 
     return 0;
 }
-int main32()
+int main33()
 {
     HANDLE hThread1 = NULL, hThread2 = NULL;
     DWORD threadID1, threadID2;
